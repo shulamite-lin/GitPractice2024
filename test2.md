@@ -1,6 +1,9 @@
- p.5  dotnet new console -n App
- p.8 dotnet build
- p.9 dotnet run
  
-
-ccc
+ 2024-10-15 
+ 
+ 今日待辦：
+	-  1-1.  親師生平台 - 
+		- 會議：
+			- 拿掉mapping table日期
+			- 本學期積點活動banner與網頁
+			- 需求書第一期內容盤點
